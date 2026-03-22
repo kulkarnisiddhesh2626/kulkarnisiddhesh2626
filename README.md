@@ -7,13 +7,13 @@ I am a postgraduate from IIT Ropar & IIM Amritsar focusing on Artificial Intelli
 ### 🚀 About Me
 - 💼 **Current Role:** Business Associate at Cognizant, focusing on data-driven enterprise solutions and intelligent automation.
 - 🎓 **Education:** Master's in Data Science & Management - IIT Ropar & IIM Amritsar (Class of 2025) | B.E. from Pune University.
-- 🧠 **Focus Areas:** Large Language Models (LLMs), NLP, Retrieval-Augmented Generation (RAG), and Business Intelligence.
-- 🎯 **Goal:** Blending deep technical ML capabilities with product strategy to build end-to-end AI applications.
+- 🧠 **Focus Areas:** Data Science, AI/ML, Agentic AI, RAG, Business Intelligence, product Management.
+- 🎯 **Goal:** Bridge gap between Tech utility and business requirement by blending deep technical AI/ML capabilities with product strategy to build end-to-end AI applications.
 
 ### 💻 Tech Stack & Tools
 - **Programming:** Python, SQL
-- **AI & ML:** GenAI, LLMs, NLP, Deep Learning, Agentic Workflows, XGBoost
-- **Libraries & Frameworks:** LangChain, Hugging Face, FAISS, Streamlit
+- **AI & ML:** GenAI, LLMs, NLP, Deep Learning, Agentic Workflows, XGBoost, RAG, MCP.
+- **Libraries & Frameworks:** LangChain, Hugging Face, FAISS, Streamlit.
 - **Data & Analytics:** Power BI, Big Data, Data Visualization, DBMS
 - **Enterprise Platforms:** Microsoft Copilot Studio, ServiceNow (Now Assist), Azure AI, AI Foundry
 
@@ -30,7 +30,7 @@ I am a postgraduate from IIT Ropar & IIM Amritsar focusing on Artificial Intelli
 
 ### 📫 Let's Connect!
 - 📧 **Email:** kulkarnisiddhesh26@gmail.com
-- 🔗 **LinkedIn:** [Insert your LinkedIn profile link here]
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/siddhesh-kulkarni-b2a600207/]
 
 ---
 ⭐️ *Check out my repositories below to explore my code!*
