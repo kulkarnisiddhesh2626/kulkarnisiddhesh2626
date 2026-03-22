@@ -1,6 +1,6 @@
 # Hi there, I'm Siddhesh Kulkarni 👋
 
-**AI/ML Specialist | Data Scientist | GenAI Architect**
+**AI/ML | Data Science | GenAI | Agentic AI | Business Intelligence |**
 
 I am a postgraduate from IIT Ropar & IIM Amritsar focusing on Artificial Intelligence, Machine Learning, and Agent-based AI architectures. With over 2 years of experience, I specialize in building autonomous workflows, RAG pipelines, and transforming complex data into strategic business insights.
 
@@ -33,4 +33,4 @@ I am a postgraduate from IIT Ropar & IIM Amritsar focusing on Artificial Intelli
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/siddhesh-kulkarni-b2a600207/]
 
 ---
-⭐️ *Check out my repositories below to explore my code!*
+⭐️ *Check out my repositories
